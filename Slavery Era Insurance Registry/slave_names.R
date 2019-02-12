@@ -21,19 +21,28 @@ webpage <- read_html(url)
 
 # find relevant table by attribute look up (e.g. [class="this table"])
 # and convert to table
-slave_names <- webpage %>%
+slave.names <- webpage %>%
   html_nodes("[summary='Slave names']") %>% 
   .[[1]] %>% 
   html_table()
 
 # check object size and dimesion along with variable names
-object_size(slave_names)
-dim(slave_names)
-glimpse(slave_names)
+object_size(slave.names)
+dim(slave.names)
+glimpse(slave.names)
 # store original names in case we want to use later
-orig.col.names <- names(slave_names)
+orig.col.names <- names(slave.names)
 
 # set to a data.table because that's how I like to manipulate data
-setDT(slave_names, check.names = T)
-glimpse(slave_names)
+setDT(slave.names, check.names = T)
+glimpse(slave.names)
+
+# rename County, State column to clarify to which party,
+# slave or slaveholder, it is referring
+setnames(slave.names, 
+         old = names(slave.names)[grepl("^County", names(slave.names))],
+         new = c("Slave.County.State", "Slaveholder.County.State")
+         )
+
+glimpse(slave.names)
 #----------------
