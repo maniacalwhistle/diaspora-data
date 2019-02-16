@@ -11,7 +11,9 @@ Dim: 	296 x 12 (row x col)
 ## Context:
 [_insert background for dataset -- What is this data? Where'd it come from? how was it used? Why is it important?_]
 
-[_@letishasmith The context below was taken directly from the cite, even if it is not blockquote. We may either paraphrase or decide to quote directly. Put this here just a placeholder._]
+Hey @letishasmith let me know about the below in brackets
+
+[_The context below was taken directly from the cite, even if it is not blockquote. We may either paraphrase or decide to quote directly. Put this here just a placeholder._]
 
 > The Texas Slavery Project takes a deep look at the expansion of slavery in the borderlands between the United States and Mexico in the years between 1837 and 1845. Based at the [Virginia Center for Digital History](http://www.vcdh.virginia.edu/index.php?page=VCDH), the project offers a number of digital tools that allow users to explore the changing face of slavery in early Texas.
 
