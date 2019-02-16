@@ -12,7 +12,9 @@ Dim: 	675 x 6 (row x col)
 ## Context:
 [_insert background for dataset -- What is this data? Where'd it come from? how was it used? Why is it important?_]
 
-[_@letishasmith The context below was taken directly from the cite, even if it is not blockquote. We may either paraphrase or decide to quote directly. Put this here just a placeholder._]
+Hey @letishasmith
+
+[_The context below was taken directly from the cite, even if it is not blockquote. We may either paraphrase or decide to quote directly. Put this here just a placeholder._]
 
 In August 2000 the California legislature found that:
 
@@ -45,7 +47,7 @@ A full description of this project and dataset can be found on [The Clafornia DO
 If you use this dataset in your work, please include the following citation:
 
 [_insert citation_]
-@letishasmith let me know if you have something in mind for this;
+Hey @letishasmith let me know if you have something in mind for this;
 
 ## Inspiration:
 
