@@ -34,6 +34,6 @@ Datasets to be compiled:
 	+ [Slave Names](http://www.insurance.ca.gov/01-consumers/150-other-prog/10-seir/slave-names.cfm)
 	+ [Slaveholder Names](http://www.insurance.ca.gov/01-consumers/150-other-prog/10-seir/slaveholder-names.cfm)
 + [Texas Slavery Project](http://www.texasslaveryproject.org/database/list.php?begin_year=1837&end_year=1845&amount=&amount_number=&pop_value=&amount2=&amount_number2=&pop_value2=&include_estimated_data=1)
-+ [Virginia Emigrants to Liberia](http://www.vcdh.virginia.edu/liberia/index.php?page=Resources&section=Search%20Emigrants&result=yes) (consists of 2 datasets of emancipated & emancipators that can be linked)
-	+ .
-	+ .
++ [Virginia Emigrants to Liberia](http://www.vcdh.virginia.edu/liberia/index.php?page=Home) (consists of 2 datasets of emancipated & emancipators that can be linked)
+	+ [Emigrants](http://www.vcdh.virginia.edu/liberia/index.php?page=Resources&section=Search%20Emigrants&result=yes)
+	+ [Emancipators](http://www.vcdh.virginia.edu/liberia/index.php?page=Resources&section=Search%20Emancipators&result=yes)
