@@ -43,6 +43,6 @@ setnames(slave.names,
          old = names(slave.names)[grepl("^County", names(slave.names))],
          new = c("Slave.County.State", "Slaveholder.County.State")
          )
-
+# view table
 glimpse(slave.names)
 #----------------
